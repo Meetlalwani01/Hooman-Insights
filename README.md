@@ -24,6 +24,10 @@ A polished, production-ready dashboard for exploring call conversation metrics. 
 * Responsive Pie Chart for Status Distribution
 * Responsive Bar Chart for Cost/Min by Agent
 * Glass-morphism UI, dark gradient theme, hover effects
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/10c1c53c-68b5-4120-9d09-bad9162d7f31" />
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/c37f5278-66e0-464b-8b20-ca719e0b8064" />
+<img width="835" alt="image" src="https://github.com/user-attachments/assets/a106a5a5-5701-4396-a69e-5e9fb4fff149" />
+
 
 ---
 
