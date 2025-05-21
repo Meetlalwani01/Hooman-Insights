@@ -1,6 +1,5 @@
 # Hooman Insights Dashboard
 
-A polished, production-ready dashboard for exploring call conversation metrics. Built with Next.js, TypeScript, MobX-State-Tree, Tailwind CSS, and Recharts.
 
 ---
 
